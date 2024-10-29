@@ -12,9 +12,9 @@ Table of Contents
 10.	License
 11.	References
 12. Project Overview
-13. ![image](https://github.com/user-attachments/assets/7a224b37-b775-4011-97ca-fdeca0812a25)
+    ![image](https://github.com/user-attachments/assets/7a224b37-b775-4011-97ca-fdeca0812a25)
 
-This project presents a comprehensive Year-To-Date (YTD) sales analysis for an eCommerce business using Tableau as a visualization tool. The primary objective is to provide actionable insights into sales trends, profitability, customer acquisition, and market performance.
+13. This project presents a comprehensive Year-To-Date (YTD) sales analysis for an eCommerce business using Tableau as a visualization tool. The primary objective is to provide actionable insights into sales trends, profitability, customer acquisition, and market performance.
 Technologies Used
 •	Tableau: For data visualization and dashboard creation.
 •	Microsoft Excel: For data cleaning and preparation.
