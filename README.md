@@ -11,25 +11,25 @@ Table of Contents
 9.	Contributing
 10.	License
 11.	References
-Project Overview
+12.Project Overview
 This project presents a comprehensive Year-To-Date (YTD) sales analysis for an eCommerce business using Tableau as a visualization tool. The primary objective is to provide actionable insights into sales trends, profitability, customer acquisition, and market performance.
 Technologies Used
 •	Tableau: For data visualization and dashboard creation.
 •	Microsoft Excel: For data cleaning and preparation.
 •	Data Source: Internal eCommerce transactional data.
 "eCommerce Transactional .This dataset includes sales, profit, product categories, and customer acquisition details.
-Usage
+13.Usage
 •	Navigate through the dashboard to explore various KPIs, including sales performance, profit trends, order quantities, market share, and customer acquisition metrics.
 •	Use interactive filters to segment data by product category, region, and time period.
 
-Features
+14.Features
 •	Sales KPI: Tracks cumulative sales value and monthly trends.
 •	Profit KPI: Measures profitability through YTD profit and monthly profit trends.
 •	Order Quantity KPI: Monitors order volumes and averages over the year.
 •	Market Share Analysis: Analyzes market performance based on sales revenue.
 •	Category-wise YTD vs. PYTD Sales: Compares current and previous year-to-date sales.
 •	Customer Acquisition Tracking: Monitors monthly new customer acquisition across markets.
-KPI Analysis
+15.KPI Analysis
 •	Sales KPI: Provides insights into overall sales performance, highlighting high-performing months.
 •	Profit KPI: Identifies which product categories yield the highest profitability.
 •	Order Quantity KPI: Reveals demand patterns and trends in customer purchasing behavior.
@@ -37,7 +37,7 @@ KPI Analysis
 •	Category-wise YTD vs. PYTD Sales: Helps pinpoint top-performing and low-performing categories.
 •	Market-wise Customer Acquisition per Month: Highlights periods of peak customer acquisition and market segments showing growth or stagnation.
 
-12.Installation Instructions
+16.Installation Instructions
 1.	Clone the Repository:
 Run the following command in your terminal:
 bash
