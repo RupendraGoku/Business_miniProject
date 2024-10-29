@@ -50,11 +50,11 @@ o	If needed, prepare and clean your data using Excel before importing.
 4.	Open the Dashboard:
 o	Open the Tableau workbook file (.twb or .twbx) included in this repository to access the dashboard.
 
-Dashboard Overview
+17. Dashboard Overview
 The dashboard consolidates insights from individual worksheets, allowing users to interact with data through filters and dynamic views. It provides a unified view of YTD sales, profits, order trends, and customer acquisition, enabling real-time analysis and comparison across various metrics.
 Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, please fork the repository and submit a pull request.
-References
+18.References
 "eCommerce Transactional Data," .
 •	Software: Tableau, version [Version Number].
 •	Literature:
