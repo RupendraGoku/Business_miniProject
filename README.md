@@ -36,7 +36,8 @@ KPI Analysis
 •	Market Share by Sales: Identifies dominant markets and potential areas for growth.
 •	Category-wise YTD vs. PYTD Sales: Helps pinpoint top-performing and low-performing categories.
 •	Market-wise Customer Acquisition per Month: Highlights periods of peak customer acquisition and market segments showing growth or stagnation.
-Installation Instructions
+
+12.Installation Instructions
 1.	Clone the Repository:
 Run the following command in your terminal:
 bash
